@@ -8,8 +8,6 @@ I'm Trevor, a **Data Engineer** with over 3 years of hands-on experience buildin
 
 What gets me excited? Taking a tangled mess of data sources and transforming them into smooth, automated pipelines that just work. I've had the chance to work on everything from fraud detection systems to executive dashboards, and honestly, there's nothing quite like seeing a pipeline you built running smoothly in production.
 
----
-
 ## 💼 My Journey So Far
 
 ### 🏦 **Data Engineer** | Huntington National Bank | *Dec 2023 – Present*
@@ -38,8 +36,6 @@ My first real taste of production data work. Learned a ton about the importance 
 - Built solutions for regulatory reporting (learned that compliance is no joke in banking!)  
 - Worked closely with compliance teams to make sure everything met audit standards
 
----
-
 ## 🛠️ What I Work With
 
 ### **Cloud Platforms**
@@ -54,14 +50,12 @@ I've gotten pretty good at ETL/ELT development, data modeling, and working with 
 ### **The People Side**
 One thing I've learned is that technical skills only get you so far. I really value working with cross-functional teams, translating business needs into technical solutions, and making sure stakeholders understand what we're building and why.
 
----
-
 ## 🏗️ Projects I'm Proud Of
 
 ### 🏀 **NBA Analytics Data Pipeline** | *2025*
 *Personal project that scratches my basketball itch*
 
-I built this end-to-end pipeline to analyze NBA content performance data, mainly because I wanted to learn more about modern data architecture patterns. It follows the Medallion Architecture approach (Bronze → Silver → Gold layers) and uses GCP services like BigQuery and Cloud Storage.
+I built this end-to-end pipeline to analyze NBA performance data, mainly because I wanted to learn more about modern data architecture patterns. It follows the Medallion Architecture approach (Bronze → Silver → Gold layers) and uses GCP services like BigQuery and Cloud Storage.
 
 The fun part was setting up the entire workflow - from ingesting raw JSON data to creating analytics-ready datasets using dbt. I'm using Prefect for orchestration and planning to add GitHub Actions for CI/CD. It's been a great way to experiment with tools I don't get to use at work.
 
@@ -72,16 +66,12 @@ This was one of those projects where I got to roll up my sleeves and really dig 
 
 The end result? We reduced workload by 30% and saved about $6.5K annually. More importantly, I learned that sometimes the best technical solution is the one that involves talking to people to understand the real problem.
 
----
-
 ## 🎓 Background
 
 **Bachelor of Science, Computer Science**  
 North Carolina A&T State University | *Class of 2021*
 
 I'm someone who believes in continuous learning. Right now I'm diving deeper into Airflow orchestration, advanced dbt patterns, and modern data architecture approaches. The field moves fast, and I love keeping up with new tools and techniques.
-
----
 
 ## 📈 How I Got Here
 
@@ -91,8 +81,6 @@ I'm someone who believes in continuous learning. Right now I'm diving deeper int
 **2022**: Started as a data scientist focused on fraud detection  
 **2021**: Fresh CS graduate, ready to dive into the data world
 
----
-
 ## 📞 Let's Chat
 
 I love talking about data engineering challenges, new tools, and interesting problems. Whether you're dealing with a tricky pipeline issue or just want to geek out about data architecture, I'm always up for a good conversation.
@@ -100,7 +88,5 @@ I love talking about data engineering challenges, new tools, and interesting pro
 **What I'm Into**: Modern data stack • Cloud architecture • Making data accessible • Solving complex business problems with simple solutions
 
 **How I Work**: Collaborative • Always learning • Results-focused
-
----
 
 ⭐ **Feel free to reach out if you want to discuss data engineering, share war stories, or just connect!**
